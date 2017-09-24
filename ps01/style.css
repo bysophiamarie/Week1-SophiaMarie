@@ -1,0 +1,32 @@
+h1{
+    font-family: Verdana;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: black;
+}
+h2{
+    font-family: Verdana;
+    font-weight: 300;
+    color:black;
+}
+body{
+    background-color: lavender;
+}
+img{
+    width: 300px;
+    height: auto;
+    border-radius: 25%;
+
+}
+.id_1 {
+    /*float: right;*/
+}
+.id_2 {
+    width: 300px;
+    height: auto;
+    margin-right: 1%;
+    float: left;
+}
+p{
+    font-family: sans-serif;
+}
